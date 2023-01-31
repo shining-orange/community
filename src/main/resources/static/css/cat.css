@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(255, 232, 236);
+}
+@keyframes cat_moving {
+    from{
+        background-position: 0px 0px;
+    }
+    to{
+        background-position: -1262px 0px;
+    }
+}
+.cat_box{
+    /* 图盒子尺寸 */
+    width: 315px;
+    height:350px;
+    /* 调整盒子与鼠标的距离关系 */
+    margin-top: -150px;
+    margin-left: -300px;
+    /* 调用精灵图 */
+    background-image: url(../img/cat_moving_vector.png);
+    background-repeat: no-repeat;
+    background-position: -62px -30px;
+    /* 设置定位方便js位置动态调整 */
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    /* 调用动画，根据精灵图设置属性 */
+    animation: cat_moving .4s steps(4) infinite;
+    /* 水平镜像调整方向 */
+    transform: rotateY(180deg);
+    /* 将盒子整体缩小达到想要的效果 */
+    scale: .5;
+}
+*{
+    cursor: none;
+}

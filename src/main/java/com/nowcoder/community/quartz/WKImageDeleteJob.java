@@ -33,7 +33,7 @@ public class WKImageDeleteJob implements Job {
         for (File file : files) {
             // 删除一分钟之前创建的图片
             if (System.currentTimeMillis() - file.lastModified() > 60 * 1000) {
-                logger.info("删除WK图片：" + file.getName());
+                logger.info("删除WK图片: " + file.getName());
                 file.delete();
             }
         }

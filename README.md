@@ -1,6 +1,6 @@
 # <font color=red>ECHO</font>社区
-##项目截图
-
+##项目截图（觉得好的请给个Starred吧）
+需要数据库的可以直接加Q哦！（277160461）
 
 <div align="center">
 <a href="https://www.orangejun.cn/photos/12">

@@ -2,7 +2,7 @@
 <div align="center">
 <a href="https://www.orangejun.cn/photos/12">
     项目截图（觉得好的请给个Starred吧）
-需要数据库的可以直接加Q哦！（277160461）
+需要数据库的可以直接加Q哦！（277160461）无偿哒！
   </a><br>
     <img src="https://blog-dm-01.oss-cn-hangzhou.aliyuncs.com/ZNS_MX%5BA_IOLOK%25V4OZN8US.png">
 </div>

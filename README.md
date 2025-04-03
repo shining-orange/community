@@ -2,7 +2,7 @@
 <div align="center">
 <a href="https://www.orangejun.cn/photos/12">
     项目截图（觉得好的请给个Star吧）
-需要配置文件、数据库的可以直接联系哦！（Q277160461）无偿哒！
+需要配置文件、数据库的可以直接联系哦！（Q277160461）
   </a><br>
     <img src="https://imgs.xcodey.com/v2/DXiEOJ1.jpeg"><br>
     <img src="https://imgs.xcodey.com/v2/uR3RHZS.jpeg">
